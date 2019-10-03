@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
         Book[] myBooks = new Book[1];
 
-        myBooks[0] = new Book("CIS5003","Gulfam");
+        myBooks[0] = new Book("CIS5003","Pee");
 
         myBooks[0].setTitle("head first java");
         myBooks[0].setAuthor("Kathy II");
