@@ -8,7 +8,7 @@ public class Main {
         myBooks[0] = new Book("CIS5003","Gulfam");
 
         myBooks[0].setTitle("head first java");
-        myBooks[0].setAuthor("Kathy Sierra");
+        myBooks[0].setAuthor("Kathy II");
 
         for(int i=0; i<myBooks.length; i++) {
             System.out.println("The book " + myBooks[i].getTitle() + " is written by " +myBooks[i].getAuthor());
